@@ -6234,7 +6234,7 @@ select {
 }
 #contact_06 .contact_form {
 	background: transparent;
-	margin-top: 120px;
+	margin-top: 0;
 }
 #contact_06 .contact_form form {
 	text-align: center;
