@@ -1,0 +1,7 @@
+@media only screen and (max-width: 767px){
+    .navbar-light .navbar-brand::before{
+        height: 40px;
+        width: 150px;
+    }
+
+}
